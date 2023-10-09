@@ -1,0 +1,3 @@
+id;name;chart_template_id/id;note
+l10n_dz.fiscal_position_template_exo;EXO;l10n_dz.l10n_dz_pcg_chart_template;Exo de TVA
+l10n_dz.fiscal_position_template_import_export;Import/Export;l10n_dz.l10n_dz_pcg_chart_template;Import Export

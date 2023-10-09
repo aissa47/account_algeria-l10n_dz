@@ -1,0 +1,637 @@
+id;name;code;user_type_id/id;chart_template_id/id;reconcile
+l10n_dz.pcg_1011;Capital souscrit - non appelé;1011;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1012;Capital souscrit - appelé non versé;1012;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1013;Capital souscrit appelé, versé;1013;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1031;Prime d’émission;1031;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1032;Prime de fusion;1032;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1033;Prime d’apports;1033;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1035;Bons de souscription d’actions (BSA);1035;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_104;Ecart d’évaluation;104;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1051;Ecart de réévaluation sur immobilisations corporelles;1051;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1059;Ecart de réévaluation rapporté au résultat de l’exercice;1059;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1061;Réserve légale;1061;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1062;Réserves réglementées;1062;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1063;Réserves statutaires ou contractuelles;1063;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1064;Réserves ordinaires;1064;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1065;Réserves Spéciales consécutive à l’octroi d’avantages;1065;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1066;Réserves facultatives;1066;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1068;Autres réserves;1068;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_107;Écarts d'équivalence;107;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_108;Compte de l'exploitant;108;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_109;Actionnaires: capital souscrit - non appelé;109;account.data_account_type_equity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_110;Report à nouveau (bénéfice);110;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_119;Report à nouveau (Déficit);119;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_120;Résultat de l'exercice (bénéfice);120;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_129;Résultat net de l’exercice –(DEFICIT);129;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1311;Subventions d’équipements: Financement;1311;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1312;Subventions d’équipements: Financement d'autres organismes;1312;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1313;Transfert gratuit d’immobilisations;1313;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1319;Subventions inscrites ;1319;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1321;Subventions d’investissement;1321;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1322;Subventions pour financement d'activités à long terme;1322;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1329;Autres subventions inscrites;1329;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1386;Charges différées;1386;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1387;Produits différés;1387;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1531;Provisions pour avantages au personnel (IDR–IFC);1531;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1581;Provisions pour remise en l’état ou de démantèlement;1581;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1611;Emprunt Principal;1611;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1618;Intérêts courus et non échus;1618;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1621;Emprunt Principal;1621;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1628;Intérêts courus et non échus;1628;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1631;Emprunt Principal;1631;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1638;Intérêts courus et non échus;1638;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1641;Emprunts  à Court  Terme;1641;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1651;Dépôts reçus;1651;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1671;Financement Principal;1671;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_169;Primes de remboursement des obligations;169;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_171;Dettes rattachées à des participations (groupe);171;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_172;Dettes rattachées à des participations (hors groupe);172;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_173;Dettes rattachés à des sociétés en participation;173;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_178;Autres dettes rattachés à des participations;178;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1814;Créances inter-Unités (ou établissement);1814;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_18141;Créances commerciales;18141;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_1815;Dettesenvers la participation ou GIE;1815;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_18151;Dettes commerciales;18151;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_188;Comptes de liaison des sociétés en participation;188;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_203;Frais de développement immobilisables;203;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2041;Logiciels de traitements informatiques;2041;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2042;Hébergement site Web;2042;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2058;Autres droits similaires (concession  et  franchise);2058;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2071;Ecart d'acquisition positif (goodwill);2071;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2072;Autres écarts d’acquisitions ou de fusions;2072;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2079;Ecart d'acquisition négatif (badwill);2079;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2081;Fonds de commerce;2081;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2082;Droit au bail;2082;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2087;Actif environnemental;2087;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2111;Terrains nus;2111;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2112;Terrains bâtis;2112;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2113;Terrains aménagés;2113;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2114;Terrains de gisement (carrières);2114;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2121;Aménagement d’espaces verts;2121;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2122;Autres agencements et aménagements de terrains;2122;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2131;Bâtiments administratifs et commerciaux;2131;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2132;Bâtiments industriels (à décomposer en cas de besoin);2132;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2133;Bâtiments sociaux (CMS –CANTINE –REFECTOIRE);2133;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2151;Installations complexes spécialisées;2151;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2181;Installations générales agencements aménagements divers;2181;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2182;Matériel de transport;2182;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2183;Matériel de bureau et matériel informatique ;2183;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2184;Mobilier;2184;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2185;Autres mobiliers et matériels divers;2185;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2186;Actifs biologiques;2186;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2187;Emballages récupérables;2187;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_221;Terrains en concession;221;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_222;Agencements et aménagements de terrain en concession;222;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2322;Terrains en cours ;2322;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2323;Constructions en cours;2323;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2325;Installations techniques, matériels et outillage industriels en cours;2325;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2328;Autres immobilisations corporelles en cours;2328;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_237;Immobilisations incorporelles en cours;237;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2382;Avances sur commandes d’immobilisations incorporelles;2382;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2384;Avances sur commandes d’immobilisations corporelles;2384;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_261;Titres de filiales;261;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_262;Autres titres de participation;262;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_266;ACréances rattachées à des participations groupe;266;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2721;Obligations;2721;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2722;Bons;2722;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_273;Titres immobilisés de l'activité de portefeuille (TIAP);273;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2741;Prêts participatifs;2741;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2742;Prêts au personnel;2742;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2743;Autres prêts accordés;2743;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2748;Intérêts courus sur prêts et créances de crédit bail;2748;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2751;Dépôts;2751;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2755;Cautionnements versés sur loyers;2755;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2761;Créances diverses;2761;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2768;Intérêts courus et non échus sur actifs non courants;2768;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2803;Amortissements des frais de développement immobilisables;2803;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2804;Amortissements des logiciels informatiques et assimilés;2804;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2805;Amortissements concessions et droits similaires, brevets, licences, marques;2805;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2808;Amortissements des autres immobilisations incorporelles;2808;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2811;Amortissements des terrains de gisement (carrières...);2811;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2812;Amortissements des agencements et aménagements de terrains;2812;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2813;Amortissements des constructions;2813;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2815;Amortissements des Installations techniques, matériels  outillage;2815;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2818;Amortissements des autres immobilisations corporelles;2818;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_282;Amortissements des immobilisations mises en concession;282;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2903;Pertes de valeur sur frais de développement immobilisables;2903;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2904;Pertes de valeur sur logiciels informatiques et assimilés;2904;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2905;Pertes  de valeur sur concessions et droits similaires, brevets, licences, marques;2905;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2907;Pertes de valeur sur écart d’acquisition (Goodwill);2907;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2908;Pertes de valeur sur autres immobilisations incorporelles;2908;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2911;Perte de valeur des terrains ;2911;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_292;Pertes de valeur sur immobilisations mises en concession;292;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2931;Pertes de valeurs sur immobilisations incorporelles en cours;2931;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2961;Pertes de valeur sur titres de filiales;2961;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2968;Pertes de valeur sur créances rattachées à des SEP ;2968;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2971;Pertes de valeur sur titres de placement;2971;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2972;Pertes de valeurs sur les TIAP;2972;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_2981;Pertes de valeur sur les titres participatifs;2981;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_30;Stocks de marchandises;30;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3111;Matière (ou groupe) A;3111;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3112;Matière (ou groupe) B;3112;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3118;Autres matières premières;3118;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3171;Fournitures A;3171;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3172;Fournitures B;3172;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3178;Autres fournitures accessoires;3178;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3221;Carburant et lubrifiant –Véhicules;3221;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3222;Petit outillage et fournitures d'ateliers;3222;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3223;Droguerie et Produits d'entretien;3223;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3224;Pièces de rechange pour équipements et matériels techniques   ;3224;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3225;Pièces de rechange et pneumatique pour matériel de transport;3225;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3226;Quincaillerie générale et fournitures de magasin;3226;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3227;Autres fournitures consommables;3227;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3261;Emballages perdus;3261;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3262;Emballages récupérables non identifiables;3262;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3263;Emballages à usage mixte;3263;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3311;Produit en cours P 1;3311;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3312;Produit en cours P 2;3312;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3313;Produit en cours P 3;3313;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3353;Travaux en cours – T3;3353;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3411;Etudes en cours – E1;3411;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3412;Etudes en cours – E2;3412;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3413;Etudes en cours – E3;3413;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3451;Prestations de services en cours – S1;3451;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3452;Produits finis (ou groupe) – PF 2;3452;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3511;Travaux en cours – T1;3511;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3512;Travaux en cours – T2;3512;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3553;Produits finis (ou groupe) – PF 3;3553;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_37178;Achats d'autres fournitures accessoires;37178;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3801;Achats de Marchandises (ou groupe) A;3801;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3802;Achats de Marchandises (ou groupe) B;3802;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3811;Matières (ou groupe) A;3811;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_38111;Matières (ou groupe) A;38111;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_38112;Matières (ou groupe) B;38112;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_38118;Autres matières premières;38118;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3817;Achats de Fournitures Accessoires;3817;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_38171;Achats de Fournitures A;38171;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_38172;Achats de Fournitures B;38172;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_382;Autres approvisionnements stockés;382;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3821;Achat de Matières consommables stockées;3821;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3822;Achat de Fournitures consommables stockées;3822;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3826;Achat d'Emballages non récupérables;3826;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3827;Achat de Fournitures consommables non stockées;3827;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_383;Frais Accessoires sur Achats (indirects) – incorporables;383;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_384;Achats sans paiements;384;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3841;Achats locaux;3841;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_3842;Achats à l'importation;3842;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_390;Pertes de valeur sur Stocks de marchandises;390;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_391;Pertes de valeur sur Matières premières et fournitures;391;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_392;Pertes de valeur sur Autres approvisionnements;392;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_393;Pertes de valeur sur En cours de production de biens;393;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_394;Pertes de valeur sur En cours de production de services;394;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_395;Pertes de valeur sur stocks de produits;395;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_397;Pertes de valeur sur Stocks à l'extérieur;397;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_400;Fournisseurs et comptes rattachés ;400;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.dz_pcg_pay;Fournisseurs de biens et services;401;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4013;Fournisseurs de stocks;4013;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_40131;Fournisseurs de stocks : Nationaux – Publics;40131;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_40132;Fournisseurs de stocks : Nationaux – Privés;40132;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_40133;Fournisseurs de stocks : Etrangers;40133;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4016;Fournisseurs de services;4016;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_40161;Fournisseurs de services : Nationaux – Publics;40161;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_40162;Fournisseurs de services : Nationaux – Privés;40162;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_40163;Fournisseurs de services : Etrangers;40163;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4017;Fournisseurs - Retenues de garantie;4017;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_40171;Fournisseurs : Retenues de garantie – Publics;40171;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_40172;Fournisseurs : Retenues de garantie – Privés;40172;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_40173;Fournisseurs : Retenues de garantie – Etrangers;40173;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_403;Fournisseurs - Effets à payer;403;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4041;Fournisseurs d'immobilisations : Nationaux – Publics;4041;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4042;Fournisseurs d'immobilisations : Nationaux – Privés;4042;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4043;Fournisseurs d'immobilisations : Etrangers;4043;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4047;Fournisseurs d'immobilisations - Retenues de garantie;4047;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_405;Fournisseurs d'immobilisations - Effets à payer;405;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4081;Fournisseurs de stocks nationaux : Factures non parvenues;4081;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4082;Fournisseurs de services – factures non parvenues;4082;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4083;Factures à recevoir des Fournisseurs d’immobilisations;4083;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4086;Factures à recevoir des Consultants, CAC et Experts;4086;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4088;Fournisseurs : Intérêts courus à payer;4088;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4091;Fournisseurs : Avances et acomptes sur commandes;4091;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4096;Fournisseurs : Créances pour emballages et matériels à rendre;4096;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4097;Fournisseurs à soldes débiteurs (à détailler par code Tiers);4097;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4098;Rabais, remises, ristournes à obtenir et autres avoirs non encore reçus;4098;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_410;Clients et comptes rattachés ;410;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.dz_pcg_recv;Clients : Ventes de biens et services;411;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4114;Clients : Autres créances diverses;4114;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4117;Clients : Retenues de garantie;4117;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_413;Clients - Effets à recevoir;413;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_416;Clients douteux ou litigieux;416;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_417;Créances sur travaux ou prestations en cours;417;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4181;Clients - Factures à établir ;4181;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4182;Clients : Factures à établir – Secteur Privé;4182;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4188;Clients : intérêts moratoires à facturer;4188;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4191;Clients - Avances et acomptes reçus sur commandes;4191;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4196;Clients - Dettes pour emballages et matériels consignés ;4196;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4197;Clients à solde créditeur (à détailler par code Tiers);4197;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4198;Rabais, remises, ristournes à accorder et autres avoirs à établir;4198;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_421;Personnel : Rémunérations dues;421;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4211;Salaires et appointements à payer;4211;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4212;Présalaires à payer;4212;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4213;Soldes de tout compte restant dus;4213;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_422;Fonds des œuvres sociales;422;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4221;Contributions annuelles à payer (3%);4221;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4229;Autres avances pour le compte des œuvres sociales;4229;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_423;Participation des salariés au résultat;423;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_425;Personnel - Avances et acomptes;425;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_426;Personnel - Dépôts;426;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_427;Personnel - Oppositions;427;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4281;Dettes provisionnées pour congés à payer;4281;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4286;Frais de mission à payerr;4286;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4288;Personnel : Autres charges à payer;4288;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4289;Personnel : Produits à recevoir;4289;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_431;Sécurité Sociale;431;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_432;Autres organismes sociaux;432;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4386;Organismes sociaux : Charges sociales sur congés à payer;4386;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4388;Organismes sociaux : Autres charges à payer;4388;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4389;Organismes sociaux : Produits à recevoir;4389;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4411;Subventions d'investissement;4411;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4412;Subventions d’exploitation à recevoir;4412;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4418;Autres subventions et aides publiques à recevoir;4418;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4419;Avances sur subventions;4419;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4421;IRG retenu sur salaires (barème);4421;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4422;IRG – Libératoire sur rappels de salaires et participation;4422;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4423;IRG – Libératoire sur bénéfices distribués;4423;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4424;IRG – Libératoire sur revenus mobiliers;4424;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4425;IRG – Libératoire sur Jetons de présence et tantièmes;4425;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4426;IRG – Libératoire retenu à la source aux consultants;4426;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4428;Autres impôts retenus à la source;4428;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4431;Créances sur l'Etat – Indemnisations;4431;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4432;Avance pour compte ANEM – Emplois aidés (Quote part de l'Etat);4432;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4438;Créances ou dettes résultant du changement de la réglementation fiscale;4438;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_444;Etat, impôts sur les résultats;444;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4441;Acomptes provisionnels sur I.B.S;4441;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4449;Impôts sur les bénéfices – I.B.S à payer;4449;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_44551;TVA à décaisser (à payer sur G.50);44551;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_44552;Obligations cautionnées (au profit des Douanes);44552;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_44562;TVA récupérable sur immobilisations;44562;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_44563;TVA transférée par d'autres entreprises;44563;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_44566;TVA récupérable sur achats de stocks et de services;44566;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_44568;Crédit de TVA à reporter (Précompte);44568;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_44571;TVA collectée sur Ventes – (livraisons juridiques ou matérielles);44571;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_44572;TVA collectée sur les encaissements;44572;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_44575;Droits de timbre perçus au profit du Trésor;44575;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_44583;Remboursement de TVA demandé;44583;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_44584;TVA récupérée d’avance ou en attente de régularisation;44584;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_44586;TVA sur factures d’achats non parvenues;44586;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_44587;TVA sur factures de ventes ou de prestations à établir;44587;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_446;Obligations cautionnées;446;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_447;Autres impôts, taxes et versements assimilés;447;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4471;Taxe sur l’activité professionnelle – TAP à payer (sur G.50);4471;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4472;Taxe sur l’apprentissage et la formation professionnelle;4472;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4473;Taxe sur l’environnement – (Écotaxe);4473;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4474;Droits d’enregistrement à payer;4474;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4475;Taxe foncière à payer;4475;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4478;Autres droits, impôts et taxes à payer;4478;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4482;Etat – charges à payer : Charges fiscales sur congés à payer;4482;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4486;Rappels d'impôts à payer (hors IBS);4486;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4487;Etat – produits à recevoir : Trop versés sur impôts;4487;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4488;Etat – produits à recevoir : Dégrèvement d’impôts;4488;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4511;Avances de fonds;4511;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4518;Autres opérations;4518;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_455;Associés - Comptes courants;455;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4551;Principal;4551;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4556;Intérêts courus;4556;account.data_account_type_payable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_45611;Associés : Comptes d’apport en société;45611;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_45615;Associés : Apports en numéraires;45615;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4562;Associés : Capital souscrit, appelé et non versé (apports à libérer);4562;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4563;Associés : Versements reçus sur augmentation de Capital;4563;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4564;Associés : Versements anticipés;4564;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4566;Actionnaires défaillants;4566;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4567;Associés - Capital à rembourser;4567;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4571;Coupons d’action;4571;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4572;Dividendes mis en paiement;4572;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4577;Tantièmes à payer aux administrateurs et gérants;4577;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4586;Opérations faites en commun : Charges à payer;4586;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4587;IOpérations faites en commun : Produits à recevoir;4587;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4588;Intérêts courus;4588;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_462;Créances sur cessions d'immobilisations;462;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_464;Dettes sur acquisitions de valeurs mobilières de placement;464;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_465;Créances sur cessions de valeurs mobilières de placement;465;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_467;Autres comptes débiteurs ou créditeurs;467;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_4686;Charges à payer;4686;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4687;Produits à recevoir;4687;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_476;Comptes d'attente 5;476;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_477;Recettes en attente d’imputations;477;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_478;Autres opérations à régulariser;478;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_4811;Provisions pour procès et litiges (moins de 12 mois);4811;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4812;Provisions pour garanties données aux clients (moins de 12 mois);4812;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4815;Provisions pour amendes et pénalités;4815;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4816;Provisions pour pertes de change;4816;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4818;Autres provisions : Passifs courants;4818;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_486;Charges constatées d'avance;486;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_487;Produits constatés d'avance;487;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4911;Pertes de valeurs sur comptes de clients;4911;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4912;Pertes de valeurs sur retenues de garanties;4912;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4951;Pertes de valeur sur compte du groupe;4951;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4955;Pertes de valeur sur comptes courants des associés;4955;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4958;Pertes de valeur sur opérations faites en commun (SEP – GIE);4958;account.data_account_type_current_liabilities;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4962;Pertes de valeur sur créances de cessions d'immobilisations;4962;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4965;Pertes de valeur sur créances de cessions de VMP;4965;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_4967;Pertes de valeur sur autres comptes débiteurs;4967;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_498;Pertes de valeur sur autres comptes de tiers;498;account.data_account_type_receivable;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_501;Parts dans entreprises liées;501;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_502;Actions propres;502;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5031;Actions détenues en vue de la revente;5031;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5061;Obligations à moins de 12 mois;5061;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5062;Bons du Trésor à court terme;5062;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5063;Bons de caisse à court terme;5063;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5081;Autres valeurs mobilières;5081;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5082;Bons de souscription;5082;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5083;Intérêts courus;5083;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5088;Intérêts courus;5088;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_509;Versements restant à effectuer sur valeurs mobilières de placement non libérées;509;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5111;Chèques à encaisser;5111;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5112;Traites remises à l’escompte;5112;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5113;Effets à l'encaissement;5113;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5118;Autres valeurs à l’encaissement;5118;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5121;Comptes bancaires : Dinars;5121;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5122;Comptes bancaires : Devises;5122;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5151;Caisses du Trésor Public;5151;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5152;Caisses des établissements publics;5152;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5171;Banque postale (C.C.P);5171;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5172;Sociétés de leasing (crédit-bail);5172;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5173;Sociétés de factoring (affacturage);5173;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5176;Société de bourse;5176;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5178;Autres organismes et établissements financiers;5178;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5186;Intérêts courus à payer (agios à payer);5186;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5187;Intérêts courus à recevoir (intérêts des dépôts créditeurs à recevoir);5187;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5191;Facilité de caisse;5191;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5192;Découvert bancaire;5192;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5193;Autres avances bancairesr;5193;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5198;Intérêts courus sur concours bancaires courants;5198;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5311;Caisse principale en Dinars;5311;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5314;Caisse principale en Devises;5314;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5321;Caisse auxiliaire : Succursale (ou Unité) A;5321;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5322;Caisse auxiliaire : Succursale (ou Unité) B;5322;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_541;Régies d'avances;541;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_542;Accréditifs;542;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_58;Virements Internes;58;account.data_account_type_current_assets;l10n_dz.l10n_dz_pcg_chart_template;True
+l10n_dz.pcg_5811;Virements interbancaires;5811;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5812;Versements d'espèces en banques;5812;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5813;Alimentation caisses;5813;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5886;Achats au comptant;5886;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5887;Ventes au comptant;5887;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_5888; ;5888;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_591;Pertes de valeur sur valeurs en banque et Etablissements financiers;591;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_594;Pertes de valeurs sur régies d'avances et accréditifs;594;account.data_account_type_liquidity;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_600;Achats de marchandises vendues;600;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6001;Matières (ou groupe) A;6001;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6002;Matières (ou groupe) B;6002;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6011;Matières premières consommées;6011;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60111;Matières (ou groupe) A;60111;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60112;Matières (ou groupe) B;60112;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60118;Autres matières premières consommées;60118;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60171;Fournitures A;60171;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60172;Fournitures B;60172;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60178;Autres fournitures accessoires consommées;60178;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60211;Matières (ou groupe) C;60211;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60212;Matières (ou groupe) D;60212;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60218;Autres matières consommées;60218;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60221;Carburant et lubrifiant – Véhicules;60221;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60222;Petit outillage et fournitures d'ateliers;60222;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60223;Droguerie et Produits d'entretien;60223;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60224;Pièces de rechange pour équipements et matériels techniques;60224;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60225;Pièces de rechange et pneumatique pour matériel de transport;60225;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60226;Quincaillerie générale et fournitures de magasin;60226;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60228;Autres fournitures consommées;60228;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60261;Emballages perdus consommés;60261;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60262;Emballages récupérables non identifiables consommés;60262;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_60263;Emballages à usage mixte consommés;60263;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6030;Variations de stocks de marchandises;6030;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6031;Variations de stock de matières premières et Fournitures;6031;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6032;Variations de stock des autres approvisionnements;6032;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_604;Achats d'études et de prestations de services;604;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6051;Achats d’immobilisations de faible valeur : Petit matériel et outillage;6051;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6052;Achats d’immobilisations de faible valeur : Mobilier;6052;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6053;Achats d’immobilisations de faible valeur : Matériel informatique;6053;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6054;Achats d’immobilisations de faible valeur : Matériel de communicat;6054;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6058;Autres achats de matériels, d'équipements et de travaux;6058;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6071;Achat non stocké de carburant;6071;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6072;Achat non stocké d'énergie et de force motrice (ateliers);6072;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6073;Fournitures non stockées : Eau, Gaz et Electricité (bureaux);6073;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6074;Fournitures administratives et de bureautique non stockées;6074;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6075;Achats non stockés de fournitures d'atelier et de magasin;6075;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6076;Achat non stocké de Tenues de travail et de sécurité;6076;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6078;Achat : Autres fournitures consommables non stockées;6078;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6090;R.R.R Obtenus sur achats de marchandises;6090;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6091;R.R.R Obtenus sur achats de matières premières;6091;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6092;R.R.R Obtenus sur achats d’autres approvisionnements;6092;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6094;R.R.R Obtenus sur achats sur études et prestations;6094;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6095;R.R.R Obtenus sur achats de petits matériels et équipements;6095;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6111;Sous traitance de spécialité;6111;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6112;Sous traitance de capacité;6112;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_61311;Locations immobilières : Redevance de crédit bail immobilier;61311;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_61312;Locations mobilières : Redevance de crédit bail mobilier;61312;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6141;Charges locatives d’immeubles;6141;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6142;Charges de copropriété logements de fonction;6142;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6143;Loyers garages et parking de stationnement de véhicules;6143;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6148;Autres charges locatives;6148;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6151;Entretien et réparation sur biens immobiliers;6151;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6152;Entretien et réparation sur biens mobiliers;6152;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6156;Maintenance;6156;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6161;Assurances multirisques professionnels;6161;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6162;Assurances transport;6162;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6163;Assurance responsabilité civile;6163;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6164;Assurance catastrophe naturelle;6164;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6165;Assurance couverture risque de Vie;6165;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6168;Autres assurances;6168;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_617;Études et recherches;617;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6181;Documentation générale;6181;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6182;Abonnements aux Journaux, revues et JO/BOAL/BOMOP ...etc.;6182;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6183;Documentation technique;6183;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6184;Frais de reprographie;6184;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6185;Frais de soumissions et de marchés;6185;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6186;Frais de conseils et assemblées;6186;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6187;Frais de colloques, séminaires et conférences;6187;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_619;Rabais, remises et ristournes obtenus sur services extérieurs;619;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6211;Personnel intérimaire;6211;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6212;Charges de sécurité et de gardiennage;6212;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6213;Charges de nettoyage et travaux d’insalubrité;6213;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6216;Personnel détaché ou prêté à l'entreprise;6216;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6222;Commissions et courtages sur ventes;6222;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6223;Rémunération de consultants;6223;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6225;Rémunérations d'affacturage;6225;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6226;Honoraires;6226;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6227;Frais d'actes et de contentieux;6227;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6228;Divers;6228;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6231;Annonces et insertions;6231;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6232;Échantillons;6232;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6233;Foires et expositions;6233;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6234;Parrainage, Sponsoring et mécénat;6234;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6235;Cadeau à la clientèle;6235;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6236;Catalogues et imprimés;6236;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6237;Publications;6237;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6238;Divers (pourboires, dons courants...);6238;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6241;Transports sur achats;6241;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6242;Transports sur ventes;6242;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6243;Transports entre établissements ou chantiers;6243;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6244;Transports administratifs;6244;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6248;Divers;6248;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6251;Voyages et déplacements à l’étranger;6251;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6252;Frais de déménagement;6252;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_62551;Missions : intérieur du pays - Frais de voyage;62551;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_62552;Missions : intérieur du pays - Frais de séjour;62552;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6257;Réceptions;6257;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6261;Affranchissement courrier;6261;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6262;Abonnement boite postale;6262;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6263;Abonnements et communications téléphonie mobile;6263;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6264;Abonnement internet;6264;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6265;Frais de télécommunication (fixe et fax);6265;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6271;Frais sur effets et sur titres;6271;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6272;Commissions bancaires;6272;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6276;Location de coffres;6276;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6278;Autres frais et commissions sur prestations de services;6278;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6281;Frais de recrutement de personnel;6281;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6282;Frais de formation externe du personnel;6282;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6283;Cotisations professionnelles;6283;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6284;Droits de stationnement parking privé;6284;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6288;Autres cotisations et dons courants divers;6288;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_629;Rabais, remises et ristournes obtenus sur autres services extérieurs;629;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63111;Traitements, salaires et appointements;63111;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63112;Présalaires et indemnités de stage et d’apprentissage;63112;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63113;Heures supplémentaires et IFSP;63113;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63114;Congés payés;63114;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63121;Prime de responsabilité;63121;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63122;Prime de panier;63122;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63123;Primes d’encouragement et de rendement individuel (PRI-PRC);63123;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63124;Primes sur résultats au profit des cadres dirigeants;63124;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63125;Primes de véhicule;63125;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63126;Prime de caisse et de bilan;63126;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63127;Prime de sujétion;63127;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63128;Primes spéciales;63128;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63131;Indemnité d'Expérience professionnelle (I.E.P);63131;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63132;Indemnité de nuisance;63132;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63133;Indemnité de travail posté;63133;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63134;Indemnités de fin de carrière et de départ à la retraite (IDR – IFC);63134;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63135;Indemnités kilométriques et de transport;63135;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63138;Autres Indemnités liées au salaire;63138;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63141;Bonifications;63141;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63142;Supplément familial : Prime de scolarité, IPSU, ICAF;63142;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_63148;Autres indemnités et avantages divers;63148;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6315;Avantages et prestations en nature;6315;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_634;Rémunération de l'exploitant;634;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6351;Cotisations de sécurité sociale – CNAS;6351;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6352;Cotisations au FNPOS;6352;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6353;Cotisations à la retraite – CNR;6353;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6354;Cotisations aux mutuelles;6354;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6355;Cotisations à la CACOBATPH;6355;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6361;Cotisation annuelle à la CASNOS;6361;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6368;Autres cotisations;6368;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6374;Versements aux œuvres sociales;6374;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6375;Autres contributions sociales;6375;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6381;Médecine du travail et pharmacie;6381;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6382;Frais de formation et de perfectionnement du personnel (en interne);6382;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6383;Frais d’activités socioculturelles et sportives;6383;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6384;Avantages en nature accordés au personnel;6384;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6385;Médailles du mérite et Jubilé;6385;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6387;Intéressement, primes et avantages liés aux résultats;6387;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6388;Autres charges de personnel;6388;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6412;Taxe d’apprentissage;6412;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6413;Taxe sur la formation professionnelle;6413;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6418;Autres taxes sur les salaires;6418;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6451;Taxe foncière sur les propriétés bâties et non bâties;6451;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6452;Taxes spéciales et droits d'accises;6452;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6453;Taxe sur l’environnement (écotaxe);6453;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6454;Taxes sur les véhicules (Vignettes);6454;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6455;Droits de stationnement parking communal;6455;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6456;Droits d’enregistrement sur actes et marchés;6456;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6457;Droits de timbre;6457;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6458;Autres droits, impôts et taxes divers;6458;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6511;Redevances pour concessions;6511;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6521;Moins value sur cession matériel et outillage;6521;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6522;Moins value sur cession matériel de transport;6522;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6523;Moins value sur cession mobilier et matériel de bureau;6523;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6528;Moins value sur cession autres équipements et matériels;6528;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_653;Jetons de présence;653;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6541;Pertes sur créances de l'exercice;6541;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6542;Pertes sur créances des exercices antérieurs;6542;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6551;Quote-part de bénéfice transférée (comptabilité du gérant);6551;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6552;Quote-part de perte supportée (comptabilité des associés non gérants);6552;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6562;Amendes et pénalités (pénales, fiscales et parafiscales);6562;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6563;Subventions accordées;6563;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6566;Dons et libéralités;6566;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_657;Charges exceptionnelles de gestion courante;657;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_658;Autres charges de gestion courante;658;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6611;Intérêts des emprunts;6611;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6612;Intérêts des dettes;6612;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6616;Intérêts bancaires et sur opérations de financement (escompte, ...);6616;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6618;Intérêts des autres dettes;6618;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_664;Pertes sur créances liées à des participations;664;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_665;Ecart d’évaluation sur actifs financiers - Moins-values;665;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_666;Pertes de change;666;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_667;Pertes nettes sur cessions d’actifs financiers;667;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_668;Autres charges financières;668;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6811;DAP-PDV : Immobilisations incorporelles;6811;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6812;DAP-PDV : Immobilisations corporelles;6812;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6853;Dotations pour pertes de valeurs sur stocks;6853;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6854;Dotations pour pertes de valeurs sur créances;6854;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6855;Dotation annuelle pour Indemnité de départ à la retraite et IFC;6855;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6856;Dotations aux provisions pour pertes et charges – PNC;6856;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6858;Dotations aux provisions – passifs courants;6858;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_6861;Dotations aux amortissements des primes de remboursement des obligations;6861;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_691;Participation des salariés aux résultats;691;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_692;Imposition différée actif – Produits;692;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_693;Imposition différée passif – Charges;693;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_698;Autres impôts sur les résultats;698;account.data_account_type_expenses;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_700;Ventes de Marchandises;700;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_701;Produits finis (ou groupe) A;701;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7011;Ventes de Produit fini (ou groupe) – PF1;7011;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7012;Ventes de Produit fini (ou groupe) – PF2;7012;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7013;Ventes de Produit fini (ou groupe) – PF3;7013;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_702;Produits finis (ou groupe) B;702;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7021;Ventes de Produits intermédiaires (ou groupe) – PI-1;7021;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7022;Ventes de Produits intermédiaires (ou groupe) – PI-2;7022;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7028;Ventes de sous produits (PR et accessoires fabriqués);7028;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_703;Ventes de produits résiduels;703;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7041;Travaux hydrauliques;7041;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7042;Travaux publics;7042;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7043;Travaux de constructions de bâtiments;7043;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_705;Études;705;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_706;Prestations de services;706;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7081;Cession de matières premières;7081;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7082;Cession d’autres approvisionnements;7082;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7086;Bonis sur reprise d’emballages consignés;7086;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7088;Autres produits des activités annexes;7088;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7092;Réduction sur ventes – Hors factures;7092;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7093;Réduction sur prestations – Hors factures;7093;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7233;IEn-cours de production;7233;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7234;En-cours d'études et de services;7234;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7241;Produits intermédiaires;7241;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7245;Produits finis;7245;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_729;Coût de la sous activité (différence d'imputation coût du chômage);729;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_731;Production immobilisée d'actifs incorporels (logiciels);731;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_732;Production immobilisée d'actifs corporels;732;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_741;Subvention d'équilibre;741;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_748;Autres subventions d'exploitation;748;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_751;Redevances pour concessions, brevets, licences, logiciels et valeurs similaires;751;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7518;Autres droits et valeurs similaires;7518;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_752;Plus values sur sorties d’actifs immobilisés non financiers;752;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_753;Jetons de présence perçus;753;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_754;Quotes-parts de subventions d’investissement virées au résultat de l’exercice;754;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7551;Quote-part de perte transférée (dans les SEP et GIE);7551;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7552;Quote-part de bénéfice attribué (dans les SEP et GIE);7552;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_756;Rentrées sur créances amorties;756;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7571;Ecart de stocks (positif) de marchandises;7571;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7572;Ecart de stocks (positif) de matières, fournitures et autres approvisionnements;7572;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7575;Dégrèvements d’impôts (autre qu’IBS);7575;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7578;Autres produits exceptionnels;7578;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7581;Lots de bord et pièces de rechange gratuites;7581;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7582;Remboursements sinistres et dégâts assurés;7582;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7583;Revenus des immeubles de placement;7583;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7586;Produits des exercices antérieurs (en cours d'exercice);7586;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7588;Produits des exercices antérieurs (en cours d'exercice);7588;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_761;Produits de participations;761;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_762;Revenus des actifs financiers;762;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_763;Revenus de créances;763;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_765;Ecart d’évaluation sur actifs financiers – Plus-values;765;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_766;Gains de change;766;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_78111;Reprises sur amortissements : Immobilisations incorporelles;78111;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_78112;Reprises sur perte de valeur : Immobilisations incorporelles;78112;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_78113;Reprises sur amortissements : Immobilisations corporelles;78113;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_78114;Reprises sur perte de valeur : Immobilisations corporelles;78114;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_78115;Reprises sur écarts de réévaluation : Immobilisations corporelles;78115;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_78117;Reprises sur plus values à réinvestir;78117;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7853;Reprise sur pertes de valeurs – Stocks et encours;7853;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7854;Reprise sur pertes de valeurs – Créances;7854;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_7858;Reprise sur provisions pour pertes et charges – PNC;7858;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False
+l10n_dz.pcg_786;Reprises financières sur pertes de valeur et provisions;786;account.data_account_type_revenue;l10n_dz.l10n_dz_pcg_chart_template;False

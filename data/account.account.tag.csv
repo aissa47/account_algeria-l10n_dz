@@ -1,0 +1,21 @@
+id;name;applicability
+account.account_tag_operating;Operating Activities;Comptes
+account.account_tag_financing;Financing Activities;Comptes
+account.account_tag_investing;Investing & Extraordinary Activities;Comptes
+l10n_dz.tax_ACH-19_0;ACH-19.0;Taxes
+l10n_dz.tax_19_0;19;Taxes
+l10n_dz.tax_ACH-9_0;ACH-9_0;Taxes
+l10n_dz.tax_9_0;9;Taxes
+l10n_dz.tax_IMMO_19_0;IMMO-19.0;Taxes
+l10n_dz.tax_IMMO_9_0;IMMO_9_0;Taxes
+l10n_dz.tax_ACH-17_0;ACH-17.0;Taxes
+l10n_dz.tax_17_0;17;Taxes
+l10n_dz.tax_ACH-7_0;ACH-7_0;Taxes
+l10n_dz.tax_7_0;7;Taxes
+l10n_dz.tax_IMMO_17_0;IMMO-17.0;Taxes
+l10n_dz.tax_IMMO_7_0;IMMO_7_0;Taxes
+l10n_dz.tax_EXO_ACH_0;EXO_ACH_0;Taxes
+l10n_dz.tax_EXO_ACH_IMPO_0;EXO_ACH_0;Taxes
+l10n_dz.tax_EXO_0;EXO_0;Taxes
+l10n_dz.tax_EXPORT_0;EXPORT-0;Taxes
+l10n_dz.tax_IMPORT_0;IMPORT-0;Taxes

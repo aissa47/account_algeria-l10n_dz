@@ -1,0 +1,17 @@
+id;chart_template_id/id;name;description;amount;amount_type;refund_account_id/id;account_id/id;sequence;type_tax_use;tag_ids/id
+l10n_dz.tva_acq_normale19;l10n_dz.l10n_dz_pcg_chart_template;TVA (achat) 19,0%;ACH-19.0;19;Pourcentage du prix;l10n_dz.pcg_44566;l10n_dz.pcg_44566;9;Achats;l10n_dz.tax_ACH-19_0
+l10n_dz.tva_normale19;l10n_dz.l10n_dz_pcg_chart_template;TVA (vente) 19,0%;19;19;Pourcentage du prix;l10n_dz.pcg_44571;l10n_dz.pcg_44571;9;Ventes;l10n_dz.tax_19_0
+l10n_dz.tva_acq_specifique9;l10n_dz.l10n_dz_pcg_chart_template;TVA (achat) 9,0%;ACH-9.0;9;Pourcentage du prix;l10n_dz.pcg_44566;l10n_dz.pcg_44566;10;Achats;l10n_dz.tax_ACH-9_0
+l10n_dz.tva_specifique9;l10n_dz.l10n_dz_pcg_chart_template;TVA (vente) 9,0%;9;9;Pourcentage du prix;l10n_dz.pcg_44571;l10n_dz.pcg_44571;10;Ventes;l10n_dz.tax_9_0
+l10n_dz.tva_imm_normale19;l10n_dz.l10n_dz_pcg_chart_template;TVA immobilisation (achat) 19,0%;IMMO-19.0;19;Pourcentage du prix;l10n_dz.pcg_44562;l10n_dz.pcg_44562;10;Achats;l10n_dz.tax_IMMO_19_0
+l10n_dz.tva_imm_specifique9;l10n_dz.l10n_dz_pcg_chart_template;TVA immobilisation (achat) 9,0%;IMMO-9.0;9;Pourcentage du prix;l10n_dz.pcg_44562;l10n_dz.pcg_44562;10;Achats;l10n_dz.tax_IMMO_9_0
+l10n_dz.tva_acq_normale;l10n_dz.l10n_dz_pcg_chart_template;TVA (achat) 17,0%;ACH-17.0;17;Pourcentage du prix;l10n_dz.pcg_44566;l10n_dz.pcg_44566;10;Achats;l10n_dz.tax_ACH-17_0
+l10n_dz.tva_normale;l10n_dz.l10n_dz_pcg_chart_template;TVA (vente) 17,0%;17;17;Pourcentage du prix;l10n_dz.pcg_44571;l10n_dz.pcg_44571;10;Ventes;l10n_dz.tax_17_0
+l10n_dz.tva_acq_specifique;l10n_dz.l10n_dz_pcg_chart_template;TVA (achat) 7,0%;ACH-7.0;7;Pourcentage du prix;l10n_dz.pcg_44566;l10n_dz.pcg_44566;10;Achats;l10n_dz.tax_ACH-7_0
+l10n_dz.tva_specifique;l10n_dz.l10n_dz_pcg_chart_template;TVA (vente) 7,0%;7;7;Pourcentage du prix;l10n_dz.pcg_44571;l10n_dz.pcg_44571;10;Ventes;l10n_dz.tax_7_0
+l10n_dz.tva_imm_normale;l10n_dz.l10n_dz_pcg_chart_template;TVA immobilisation (achat) 17,0%;IMMO-17.0;17;Pourcentage du prix;l10n_dz.pcg_44562;l10n_dz.pcg_44562;10;Achats;l10n_dz.tax_IMMO_17_0
+l10n_dz.tva_imm_specifique;l10n_dz.l10n_dz_pcg_chart_template;TVA immobilisation (achat) 7,0%;IMMO-7.0;7;Pourcentage du prix;l10n_dz.pcg_44562;l10n_dz.pcg_44562;10;Achats;l10n_dz.tax_IMMO_7_0
+l10n_dz.tva_exo_0;l10n_dz.l10n_dz_pcg_chart_template;TVA 0% EXO (achat);ACHAT-0;0;Pourcentage du prix;;;10;Achats;l10n_dz.tax_EXO_ACH_0
+l10n_dz.tva_import_0;l10n_dz.l10n_dz_pcg_chart_template;TVA 0% import (achat);IMPORT-0;0;Pourcentage du prix;;;10;Achats;l10n_dz.tax_IMPORT_0
+l10n_dz.tva_0;l10n_dz.l10n_dz_pcg_chart_template;TVA 0% (vente);EXO-0;0;Pourcentage du prix;;;10;Ventes;l10n_dz.tax_EXO_0
+l10n_dz.tva_export_0;l10n_dz.l10n_dz_pcg_chart_template;TVA 0% export (vente);EXPORT-0;0;Pourcentage du prix;;;10;Ventes;l10n_dz.tax_EXPORT_0
